@@ -1,0 +1,14 @@
+{
+  "name": "twiz-server-proxy",
+  "version": "1.0.0",
+  "description": "proxies requests to twitter ",
+  "main": "src/TwitterProxy.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gits2501",
+  "license": "MIT"
+}
